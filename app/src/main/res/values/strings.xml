@@ -1,0 +1,347 @@
+<resources>
+    <string name="app_name">AndroidCourse1</string>
+
+
+    <string name="image2">\t\t2月18日傍晚，84岁的钟南山从广州出发赶往武汉。当天航班已买不到机票，他挤上了傍晚5点开往武汉的高铁列车。由于春运高铁票紧张，他被安顿在了餐车一角，刚一落座便拿出文件研究。到武汉开完会后，他又立刻赶往武汉金银潭医院了解病人的收治情况。致敬！
+        \n\t\t随后钟南山接收采访时说道：根据目前的资料,新型冠状病毒肺炎是肯定的人传人,在广东有2个病例,没去过武汉,但家人去了武汉后染上了新型冠状病毒肺炎,现在可以说,肯定的,有人传人现象。
+        \n\t\t钟南山院士指出,早发现、早诊断、还有治疗和隔离,这是最有效的,最原始的防控办法。对已经确诊的病人进行有效隔离,减少接触是极为重要的,从公共卫生的角度来说是最重要的。
+        \n......
+    </string>
+    <string name="image1">2019-12-30，武汉市卫健委通报
+        \n目前已发现27例病例，其中7例病情严重，其余病例病情稳定可控，有2例病情好转拟于近期出院。
+        \n2020-01-03，武汉市卫健委通报
+        \n截至2020年1月3日8时，共发现符合不明原因的病毒性肺炎诊断患者44例，其中重症11例，其余患者生命体征总体稳定。目前所有病例均在武汉市医疗机构接受隔离治疗，已经追踪到121名密切接触者并行医学观察，密切接触者的追踪工作仍在进行中。
+        \n2020-01-05，武汉市卫健委通报
+        \n截至2020年1月5日8时，我市共报告符合不明原因的病毒性肺炎诊断患者59例，其中重症患者7例，其余患者生命体征总体稳定，目前所有患者均在武汉市医疗机构接受隔离治疗，无死亡病例。在59例患者中，病例最早发病时间为2019年12月12日，最晚发病时间为12月29日;已经追踪到163名密切接触者并行医学观察，密切接触者的追踪工作仍在进行中。
+        \n2020-01-11，武汉市卫健委通报
+        \n截至2020年1月10日24时，已完成病原核酸检测。国家、省市专家组对收入医院观察、治疗的患者临床表现、流行病学史、实验室检测结果等进行综合研判，初步诊断有新型冠状病毒感染的肺炎病例41例，其中已出院2例、重症7例、死亡1例，其余患者病情稳定。所有密切接触者739人，其中医务人员419人，均已接受医学观察，没有发现相关病例。
+        \n2020-01-12，武汉市卫健委通报
+        \n2020年1月11日0-24时，我市无新增新型冠状病毒感染的肺炎病例，治愈出院4例，无新增死亡病例报告。截止目前，我市累计报告新型冠状病毒感染的肺炎病例41例，已治愈出院6例，在治重症7例，死亡1例，其余患者病情稳定，患者均在武汉市定点医疗机构接受隔离治疗。累计追踪密切接触者763人，已解除医学观察46人，尚在接受医学观察717人，密切接触者中，没有发现相关病例。
+        \n2020-01-13，武汉市卫健委通报
+        \n2020年1月12日0-24时，我市无新增新型冠状病毒感染的肺炎病例，治愈出院1例，无新增死亡病例报告。截至目前，我市累计报告新型冠状病毒感染的肺炎病例41例，已治愈出院7例，在治重症6例，死亡1例，其余患者病情稳定，患者均在武汉市定点医疗机构接受隔离治疗。累计追踪密切接触者763人，已解除医学观察76人，尚在接受医学观察687人，密切接触者中，没有发现相关病例。
+        \n2020-01-14，武汉市卫健委通报
+        \n2020年1月13日0-24时，我市无新增新型冠状病毒感染的肺炎病例，无治愈出院病例，无新增死亡病例报告。截至目前，我市累计报告新型冠状病毒感染的肺炎病例41例，已治愈出院7例，在治重症6例，死亡1例，其余患者病情稳定，患者均在武汉市定点医疗机构接受隔离治疗。累计追踪密切接触者763人，已解除医学观察187人，尚在接受医学观察576人，密切接触者中，没有发现相关病例。另，泰国通报诊断1例来自武汉市的新型冠状病毒感染的肺炎病例。目前该病例正在泰国隔离住院治疗,其回国的密切接触者正在开展追踪和医学观察中。
+        \n2020-01-15，武汉市卫健委通报   国家卫健委下发新型冠状病毒感染诊疗、控制方案(第一版)
+        \n2020年1月14日0一-24时， 我市无新增新型冠状病毒感染的肺炎病例，无治愈出院病例，无新增死亡病例报告。截至目前，我市累计报告新型冠状病毒感染的肺炎病例41例，已治愈出院7例，在治重症6例，死亡1例，其余患者病情稳定，患者均在武汉市定点医疗机构接受隔离治疗。累计追踪密切接触者763人，已解除医学观察450人，尚在接受医学观察313人，密切接触者中，没有发现相关病例。
+        \n2020-01-16，武汉市卫健委通报
+        \n2020年1月15日0一24时， 我市无新增新型冠状病毒感染的肺炎病例，治愈出院5例，新增死亡病例1例。死者熊某某，男，69岁，2019年12月31日 发病，2020年1月4日病情加重，转入武汉市金银潭医院救治，入院时患有严重心肌炎(心肌酶达到正常值20倍，心电异常) ;肾功能异常;多脏器功能受损严重;胸部CT提示肺纤维病灶及胸水、胸膜增厚，考虑有肺结核、胸膜结核疾病，于1月15日00:45因抢救无效死亡。截至目前，我市累计报告新型冠状病毒感染的肺炎病例41例，已治愈出院12例，在治重症5例，死亡2例，其余患者病情稳定，患者均在武汉市定点医疗机构接受隔离治疗。累计追踪密切接触者763人，已解除医学观察644人，尚在接受医学观察119人，密切接触者中，没有发现相关病例。
+        \n......
+    </string>
+    <string name="image3">“我必须跑得更快，才能跑赢时间，才能从病毒手里抢回更多病人。”
+        \n\t\t金银潭医院，是这次疫情阻击战中众人皆知的标志性地点。因为这是战斗最先打响的地方，也是“离炮火最近的地方”。武汉金银潭医院的院长张定宇，一个战斗者，一个指挥者，也是一颗定心丸。我们在第一时间知道了金银潭医院，却在一个月以后才知道他。他知道自己患上了绝症，却要为患者、为社会燃起希望之光；他阻挡不了自己的病情，却用尽全力去把危重患者拉回来。由于身患渐冻症，他的双腿已经开始萎缩，但他站立的地方，是最坚实的阵地。抗疫一线的妻子不幸被感染，而他拖着病体坚守在抗疫一线30多天，甚至忙得顾不上去看一眼妻子。生命的守护，争分夺秒。与时间赛跑，时间何曾给他们特别的眷顾？疫情又何曾让他们有片刻的喘息？他们不能停下，他们要跑得更快，来不及想一下自己，也来不及回头看一眼自己的家。
+        \n
+        \n“时光改变容颜，却带不走人间大爱”
+        \n\t\t2003年，王婷70多岁的奶奶坐着轮椅把王卫国送上支援太原抗击非典的战场。王婷的父亲王卫国是长医附属和平医院放射科的一名医生，2003年，王婷 70多岁的奶奶坐着轮椅把身为医生的王卫国送上支援太原抗击非典的战场； 17年后的今天，已经 66岁的王卫国把同样作为医生的女儿送上驰援湖北的抗疫一线。“疫情发生后，我爸就和我说如果有机会、有可能的话一定要去一线为国家服务。”王婷临走前，王卫国来到现场，他深情地拥抱女儿：“这个时候不要掉泪，不要牵挂，家里没事，放心的去吧，安心工作。”2月 2日下午，王婷和山西第二批援鄂医疗队其他 118名医护人员在太原武宿机 场集结，紧急飞赴湖北省，而此次陪她一起征战的行李箱，正是17年前王卫国去太原支援抗击非典时用的箱子。此次驰援湖北，对于王婷来说不只是践行着一名医者的使命，也传承着一种名叫“奉献与信仰”的家风。最美逆行者们致敬！
+        \n
+        \n疫情“吹哨人”
+        \n\t\t疫情是魔鬼。李文亮是最早一批撩起疫情魔鬼面纱的医者。他凭借专业素养和职业敏感，在新型冠状病毒肺炎疫情初期就及时向外界发出了防护预警，被誉为疫情“吹哨人”。他始终坚守岗位，在为患者诊疗过程中不幸被感染。接受隔离治疗期间，他心态乐观、积极配合，表示康复后想赶快回到一线工作，继续为患者看病。李文亮的身上，闪耀着医德之光。他是广大医务工作者的优秀代表，是我们身边的平凡英雄。
+        \n
+        \n妈妈，天黑了你怎么还不回家？
+        \n\t\t躺在东莞市南城医院的病房内，侯小琼挣扎着想起来，最终还是躺下了。40岁的她是南城医院输液室护士长，新型冠状病毒感染的肺炎疫情发生后，她一直负责预检、分诊、发热门诊，守在阻击疫情的最前线。每天从早忙到晚，加班到深夜，睡在医院值班室是常事。1月31日上午10点20分许，南城医院疫情防控小组召开会议，从院长到各科室负责人、护士长都在。正开着会，侯小琼突然就感觉自己心跳加快，难受得要命。她忍了一下，以为自己马上会好转。但实在忍不住了，“不行了，不行了”话音未落，她倒在了椅子上。侯小琼有两个儿子，大儿子今年15岁，小儿子才3岁多。很多护士都听到过她小儿子打来电话，说“妈妈，天黑了你怎么还不回家？”在孩子的心目中，天黑了，就应该下班回家了。侯小琼说，每次她都是跟孩子说，她还要忙，让孩子自己乖一点。
+        \n
+        \n......
+
+    </string>
+
+    <string name="image4">【#口罩商3倍工资让回厂加班#：叫回100多人，接到8千万只口罩订单】
+        \n\t\t1月21日，浙江一口罩生产商称，接到8千万只口罩的订单，但不敢接，因为工人都放假回家过春节了。公司正以3倍工资鼓励工人回来加班，尽量保证需求，目前已经叫回来了100多人。但是因为春节物流不方便，在年前拿到不太容易。
+        \n
+        \n【#工信部紧急协调口罩生产# 确保市场供应】
+        \n\t\t针对近日新型冠状病毒感染的肺炎疫情加重，导致相关类型口罩需求量暴增的情况，工信部正按照重大传染病联防联控工作机制要求，紧急协调各省、市、自治区工信部门组织本地口罩生产企业克服春节期间用工困难，尽快抓紧生产，有效保障市场供应。
+        \n
+        \n【“需要口罩吗？免费的！” #成都小哥在地铁免费发口罩#】
+        \n\t\t1月23日，成都一位小哥在地铁上发口罩的视频走红网络得到众多网友点赞支持。视频中，这位小哥戴着口罩，前身背着一个黑书包，边走边询问大家“需要口罩吗，免费的。”网友纷纷评论：最帅的小哥；默默的付出，小哥好样的；谢谢你，善良的小哥！
+        \n
+        \n【#97年小伙匿名捐25万只口罩#：我不需要采访，疫情早点过去就好】
+        \n\t\t连日来，武汉疫情牵动人心。浙江一位97年小伙，和朋友出钱筹集25万只口罩，加急送到武汉大学人民医院等机构。“我们不需要采访，疫情早点过去，少损失点生命就好。”
+        \n
+        \n【工信部：#口罩全国日产2000多万只# 供应能力足够】
+        \n\t\t2月3日，国新办就疫情防控重点医疗物资和生活物资保障情况举行发布会，针对口罩难买的问题，工信部总工程师田玉龙表示，我国口罩的生产总体上产能是每天2000多万只，这个产能是全球最大的，N95口罩，医用外科口罩总体来看保证供应的能力是够的，但恢复需要时间
+        \n
+        \n【#口罩企业复工率已超过76%#，#国家发改委呼吁不要囤积口罩#：大家囤了的可以送给亲朋好友】
+        \n\t\t2月11日，国务院联防联控机制新闻发布会上，国家发改委秘书长丛亮介绍，据2月10日全国22个重点省份的最新数据显示，大家关心的口罩企业复工率已超过76%，防护服企业的复工率为77%，全国重点监测的粮食生产、加工企业复工率为94.6%，煤矿复产率57.8%。国家发改委社会发展司司长欧晓理呼吁，大家不要囤积口罩，疫情一过就浪费了，建议已经囤积的可以送给亲朋好友
+        \n
+        \n【#中国口罩日产能产量双双突破1亿只#】
+        \n\t\t#口罩日产量突破1亿只#国家发改委2日表示，我国口罩日产能产量连续快速增长，双双突破1亿只。2月29日，包括普通口罩、医用口罩、医用N95口罩在内，#全国口罩日产能达到1.1亿只#，日产量达到1.16亿只，分别是2月1日的5.2倍、12倍，进一步缓解了口罩供需矛盾。其中，医用N95口罩日产能产量分别达到196万只、166万只，有效解决了一线医护人员的防护需要。
+        \n
+        \n......
+
+    </string>
+    <string name="image5">【已开始运送！#新疆支援武汉百吨洋葱#，20万副口罩2万瓶洗手液】
+        \n\t\t1月26日，Z136次列车从新疆乌鲁木齐发车，运载10吨洋葱和350件洗手液驰援武汉。新疆铁路将利用列车行李车，向武汉运送108吨洋葱、20万副口罩、2万瓶洗手液以及连花清瘟胶囊、板蓝根颗粒等急需医药及生活物资。
+        \n
+        \n【#沈阳向武汉运130吨大白菜#】
+        \n\t\t1月26日，沈阳北至广州东的Z12次旅客列车上，有一批特殊的乘客——20吨东北大白菜，被紧急发往武昌站。这是沈阳铁路部门向湖北武汉发出的、应对疫情的首批生活物资中的一部分。该批次物资主要为居民急需的蔬菜东北大白菜，共计130吨，计划分10次运到武汉。
+        \n
+        \n【#河南村支书载5吨蔬菜支援武汉#】
+        \n\t\t河南一村支书凭借在部队做后勤主管多年的经验，第一时间想到疫情来临时“吃”是个大问题。于是从家里载了5吨蔬菜连夜送往武汉火神山医院施工地，返乡后自觉在家实行自我隔离。人间有爱，武汉加油。
+        \n
+        \n【中央明确：#再增加2000名医护人员支援湖北#】
+        \n\t\t今天，中央应对新型冠状病毒感染肺炎疫情工作领导小组召开会议，提出：①#征用一批酒店场馆等收治轻症患者#或观察密切接触者，将部分三级综合医院转为定点收治医院，调集一批应急方舱医院、再增加2000名医护人员支援湖北。②调派高水平医护团队整建制接管重症救治医院或病区。③调派检测力量，提高检测能力。④要压实地方责任，推动医用防护服、口罩等企业加快复工和扩大产能。
+        \n
+        \n【感动！#汶川村民自发支援武汉100吨蔬菜#】
+        \n\t\t汶川地震后，汶川县100多名伤者被送到武汉免费救治，“作为汶川人，最应该感恩！”这次疫情发生后，四川汶川县三江镇龙竹村村民主动捐赠，驾车36小时运送100吨新鲜蔬菜驰援武汉。6辆卡车上贴着一句话，纪念这份跨越时空的感动：#汶川感恩你 武汉要雄起#。
+        \n
+        \n【#内蒙古支援湖北乳肉600吨#今日启运】
+        \n\t\t2月11日下午，一件件牛奶在呼和浩特市集装上车。内蒙古支援湖北省乳制品和肉制品等生活必需品今日启运。此次支援的物资包括：200吨羊肉、100吨牛肉、100吨猪肉和200吨牛奶。内蒙古自治区商务厅厅长田永告诉记者，这批物资由内蒙古自治区分别从锡林郭勒盟、呼伦贝尔市、赤峰市、呼和浩特市有关企业采购，统一运送到湖北省。将由湖北省方面将这批援助物资安排给荆州市和天门市。
+        \n
+        \n......
+
+    </string>
+    <string name="image6">【#雷神山医院工人没谈报酬就赶到工地#：义务的都行，搞完再回家】
+        \n\t\t武汉雷神山医院开建，预计建筑面积3万平方米，提供1500张床位。多位工人称，昨晚接到通知，自愿赶来军运村，晚上在车上睡的。目前没有谈报酬，不要钱都行，搞完了再回去，为国家做点贡献。
+        \n
+        \n【#武汉雷神山医院开工现场#曝光！】
+        \n\t\t1月25日，武汉决定半个月之内再建一所“小汤山医院”：武汉雷神山医院。雷神山医院选址武汉市江夏区黄家湖，初定新增床位1500张，建筑面积约3万平方米，可容纳2000名医务人员工作。截至26日中午，现场共有管理人员288人、工人660人，预计高峰期现场工人将达到2000人。目前，现场场地平整工作已经全面启动。
+        \n
+        \n【武汉雷神山医院规模扩大 病床增至约1600张 总建筑面积扩大至约6万平方米】
+        \n\t\t目前，由中建三局承建的武汉雷神山医院项目一、二期总平面图全部设计完成，医护人员生活区平面建筑布局完成，医技楼钢结构图纸初步成型。根据最新设计，雷神山医院总建筑面积扩大至约6万平方米。其中，医疗隔离区约51000平方米，病床增至约1600张；医护住宿区约9000平方米，可容纳2000余名医护人员。截至1月29日中午12时，雷神山医院项目医疗隔离区沟槽管线预埋、板房下HDPE膜施工基本完成，条形基础完成超30%，到场箱板房已全面开始场外拼装及改装。医护住宿区钢结构基础全部完工，1、2、7栋宿舍墙面安装基本完成，其余宿舍墙面完成近半，水电和防水已进场。
+        \n
+        \n【今天傍晚，武汉#雷神山医院全部通电#！】
+        \n\t\t1月29日18时23分，湖北武汉第二个“小汤山”模式医院——雷神山医院通电。国网武汉供电公司严格遵守三天送电的承诺，按期完成全部电力配套工程建设。向默默奉献的所有建设者致敬！
+        \n
+        \n【武汉雷神山医院1600张病床今日交付使用】
+        \n\t\t#雷神山医院交付使用#自1月27日正式施工以来，武汉雷神山医院目前已通过验收并逐步移交，首支医疗队110余人进驻。2月8日，1600张病床将交付使用，
+        \n
+        \n......
+
+    </string>
+    <string name="image7">【#军队抽组1400人承担火神山医疗任务#】
+        \n\t\t经中央军委主席习近平批准，军队抽组1400名医护人员于2月3日起承担武汉火神山新型冠状病毒感染肺炎专科医院医疗救治任务。该医院主要救治确诊患者，编设床位1000张，开设重症监护病区、重症病区、普通病区，设置感染控制、检验、特诊、放射诊断等辅助科室。此次抽组的医疗力量来自全军不同的医疗单位，其中，联勤保障部队所属医院抽组950人，先期抵达的陆军军医大学、海军军医大学、空军军医大学450人纳入统一编组。此外，从解放军疾病预防控制中心、军事科学院军事医学研究院抽组15名专家组成联合专家组，现地指导医院疫情防控工作。据了解，医护人员中有不少人曾参加小汤山医院抗击非典任务以及援助塞拉利昂、利比里亚抗击埃博拉疫情任务，具有丰富的传染病救治经验。
+        \n
+        \n【#军队增派2600名医护人员支援武汉#】
+        \n\t\t军队增派2600名医护人员支援武汉，首批力量1400人于2月13日抵达武汉，并计划在第一时间展开相关医疗救治工作。
+        \n
+        \n【#军队支援湖北医疗队再出发#】
+        \n\t\t#胖妞又来武汉了#！今天，空军再次出动运-20等三型多架运输机，从上海虹桥等七个机场起飞，向武汉紧急空运军队支援湖北医疗队队员和物资。
+        \n
+        \n【#军队物资仓库有多让人安心#】
+        \n\t\t解放军驻武汉某仓库，是储存和收发军队保障防疫前线物资的唯一集散地。在这里，用于保障火神山等多家医院运转的药品、防护用品、医疗器械等物资，分类明确，摆放整齐。网友：兵哥哥出手就是不一样！安排得明明白白！
+        \n
+        \n......
+
+    </string>
+    <string name="image8">【#武汉机场火车站检测体温# 卫生人员现场指导应对】
+        \n\t\t1月17日，湖北武汉新增新型冠状病毒肺炎17例。19日，湖北省卫健委称，武汉机场、铁路、公路等多地开始对人群进行体温检测。武汉12306热线表示，旅客进站会有热敏仪器对体温进行检测。截至1月17日24时，武汉累计报告新型冠状病毒感染的肺炎病例62例。
+        \n
+        \n【乘车注意！1月22日起，#广州地铁将对进站乘客体温测量#】
+        \n\t\t截至1月20日24时，广东新型冠状病毒感染的肺炎确诊病例14例，疑似病例7例。广州地铁自1月22日运营开始，将对进站乘客进行体温测量，并加强消毒工作。对体温检测异常的乘客，车站将发放就诊方便卡和健康提示，引导乘客到指定医疗机构排查治疗。
+        \n
+        \n【#武汉全民体温监测#】
+        \n\t\t武汉市从即日起开展全民体温监测工作。采取上门排查与自查自报相结合的方式，家里有体温计的以自查自报为主，如果市民体温正常，可通过电话、微信等报告；有体温异常者向社区报告后，工作人员再上门检查。体温监测应逐户逐人每日监测一次，确保排查全面覆盖、不漏一人
+        \n
+        \n【#不戴口罩不测体温不得进商场超市#】
+        \n\t\t疫情之下，逛商场超市是否安全？对此，国务院应对新型冠状病毒肺炎疫情联防联控机制综合组15日发布了《关于印发新型冠状病毒肺炎流行期间商场和超市卫生防护指南的通知》。通知提到，商场超市门口必须要设置专人，对每位上岗员工和顾客测量体温，体温正常方可进入。所有顾客在进入商场超市之前应当佩戴口罩，不戴口罩拒绝进入购物。
+        \n
+        \n......
+
+    </string>
+    <string name="image10">【#白衣护士与消防员的隔空婚礼#】
+        \n\t\t“我宣布：王玥玲、秦笃山正式结为合法夫妻，祝你们幸福。”2月1日晚，四川自贡沿滩区联络镇中心卫生院院长甘水芬含泪为一对新人致证婚词。他们一个是白衣战士，一个是消防队员，为了疫情工作取消了原定的婚礼，在岗位上办了一场仅5分钟的视频婚礼
+        \n
+        \n【#战疫期间的最美约会#：#抗疫护士与男友隔门告白#】
+        \n\t\t“我看看你的脸，现在好点了吗？”“好多了，就是还留了一个小伤口。” “我想抱抱你。”“我也想抱抱你”…4日晚，浙大四院感染楼，一对恋人隔着玻璃通过手机通话，这是他们11天以来的第一次见面。 突如其来的疫情，让他们取消了2月14日登记结婚的计划，如今也有了甜蜜的约定：等疫情结束，第一件事情就是去领结婚证。
+        \n
+        \n【#抗疫一线护士用回形针戒指求婚# ：没有鲜花钻戒，但有你有我】
+        \n\t\t2月9日，武汉，援鄂护士刘光耀用回形针做了一个婚戒，向女友乔冰下跪求婚。两人都是河南省第三人民医院的护士，为支援武汉推迟了订婚。出发前，刘光耀曾向乔冰许诺“回来后，我娶你”。
+        \n
+        \n【泪目！#赴汉抗疫护士与儿子隔空对话#：妈，你一定要照顾好自己，不然怎么照顾他们】
+        \n\t\t2月4日，护士长汪凡跟随云南第二批援助湖北医疗队到了抗疫前线。出发前，她怕10岁儿子担心谎称要加班，把他送到姨妈家。直到9日，汪凡才有时间与儿子视频。孩子他爸悄悄录下这段隔空对话。平安回来，早日团聚！
+        \n
+        \n......
+
+    </string>
+
+    <string name="image11">【#雷神山感染科A5病区患者清零#】
+        \n\t\t随着患者陆续康复，武汉雷神山医院感染科A5病区25日实现患者“清零”，这是该院首个患者“清零”的病区。据感染科A5病区主任李铁英介绍，该病区有床位32张，于2月14日收满患者。累计收治新冠肺炎患者44名，实现了患者零死亡，医护人员零感染。该病区56名医护人员分别来自辽宁本溪和锦州，病区患者“清零”后，56名医护人员将分别到感染科A12、B2病区继续工作。
+        \n
+        \n【#雷神山医院最后一批病人#：新冠患者怕传染家人想多住几天院】
+        \n\t\t4月3日，武汉雷神山医院c2病区，少量新冠肺炎病患仍在接受治疗，上海五院和六院援鄂医疗队的医护人员继续坚守。医护查房时，已入院一个多月的程先生表示，希望能够多住院一段时间，免得回家后复发感染亲戚朋友。
+        \n
+        \n【#雷神山医院普通病区全部关闭#】
+        \n\t\t上午9点，在雷神山医院最后一个普通病区——C2病区，医护人员将剩余的5名患者陆续转入ICU病房。医务管理部负责人李锟介绍，C2病区的最后5位患者病情相对较重，在普通病区也是按照危重症的模式进行治疗，转入ICU病房后，将得到持续的专业救治与护理。当日中午，医护人员在C2病区完成了病房清理、消毒杀菌等工作，并在该病区各个出入口贴上封条，宣告雷神山医院最后一个普通病区正式关闭，当日有1名患者出院。截至4月9日，还有15名患者在ICU继续接受治疗。
+        \n
+        \n【#火神山雷神山将在15日前关闭#】
+        \n\t\t焦雅辉：“两山”医院是此次抗击新冠肺炎疫情标志性的两家医院，目前火神山还有40多名患者，雷神山还有15名患者。经研究，15日前要把这两家医院的病人清空，转到同济、协和、人民和中南4家医院当中去。“两山”医院经消杀后备用，不会马上拆除，会保留一段时间。
+        \n
+        \n【#雷神山最后一批患者转院#】
+        \n\t\t4月14日上午，雷神山最后一批患者转院。从2月8日开始收治转院病人至今，历时67天，#雷神山患者清零#。
+        \n
+        \n......
+    </string>
+
+
+    <string name="image1e">
+        2019-12-30, Wuhan Municipal Health Committee
+        \n27 cases have been found so far, 7 of them are in serious condition, the rest are in stable and controllable condition, and 2 cases are going to be discharged in the near future.
+        \n2020-01-03, Wuhan Municipal Health and Health Commission Bulletin
+        \nAs of 8:00 on January 3, 2020, a total of 44 patients with unexplained viral pneumonia were found, of which 11 were severe, and the remaining patients had generally stable vital signs. At present, all cases are being treated in isolation in medical institutions in Wuhan. 121 close contacts have been tracked and medical observations have been made. The tracking of close contacts is still in progress.
+        \n2020-01-05, Wuhan Municipal Health and Health Commission Bulletin
+        \nAs of 8:00 on January 5, 2020, our city has reported a total of 59 patients with unexplained viral pneumonia diagnosis, including 7 severe patients, and the remaining patients have generally stable vital signs. All patients are currently in Wuhan medical institutions Received isolation treatment, no deaths. Among the 59 patients, the earliest onset time was December 12, 2019, and the latest onset time was December 29; 163 close contacts have been tracked in parallel for medical observation, and tracking of close contacts is still in progress .
+        \n2020-01-11, Wuhan Municipal Health and Health Commission Bulletin
+        \nAs of 24:00 on January 10, 2020, pathogen nucleic acid testing has been completed. The national, provincial and municipal expert groups conducted comprehensive research and judgment on the clinical manifestations, epidemiological history, laboratory test results, etc. of patients admitted to the hospital for observation and treatment, and initially diagnosed 41 cases of pneumonia with new coronavirus infection, of which 2 were discharged. There were 7 severe cases and 1 death. The remaining patients were in stable condition. All 739 close contacts, including 419 medical personnel, have received medical observations, and no related cases have been found.
+        \n2020-01-12, Bulletin of Wuhan Municipal Health Commission
+        \nOn January 11, 2020, 0-24 hours, there were no new cases of pneumonia caused by new coronavirus infections, 4 cases were cured and discharged, and no new deaths were reported. Up to now, the city has reported 41 cases of new coronavirus-infected pneumonia, 6 cases have been cured and discharged, 7 cases are severely treated, and 1 case has died. The rest of the patients are in stable condition, and the patients have been treated in isolation in designated medical institutions in Wuhan. A total of 763 close contacts have been tracked, 46 medical observations have been dismissed, and 717 are still undergoing medical observation. Among close contacts, no related cases have been found.
+        \n2020-01-13, Wuhan Municipal Health and Health Commission Bulletin
+        \nOn January 12, 2020, 0-24 hours, there was no new case of pneumonia caused by new coronavirus infection in our city. One case was cured and discharged, and no new death cases were reported. Up to now, the city has reported 41 cases of new coronavirus-infected pneumonia, 7 cases have been cured and discharged, 6 cases are severely treated, and 1 case has died. The rest of the patients are in stable condition, and all patients have been treated in isolation in Wuhan\ s designated medical institutions. A total of 763 close contacts have been tracked, 76 medical observations have been discontinued, and 687 are still undergoing medical observation. Among close contacts, no related cases were found.
+        \n2020-01-14, Bulletin of Wuhan Municipal Health Commission
+        \nOn January 13th, 2020, from 0 to 24 hours, there were no new cases of pneumonia caused by new coronavirus infections, no cured cases of discharge, and no new deaths reported. Up to now, the city has reported 41 cases of new coronavirus-infected pneumonia, 7 cases have been cured and discharged, 6 cases are severely treated, and 1 case has died. The rest of the patients are in stable condition, and all patients have been treated in isolation in Wuhan s designated medical institutions. A total of 763 close contacts were tracked, 187 people were dismissed from medical observation, and 576 were still under medical observation. Among close contacts, no related cases were found. In addition, Thailand reported the diagnosis of a case of pneumonia from a new coronavirus infection in Wuhan. The case is currently being hospitalized in isolation in Thailand, and its close contacts who are returning to China are under investigation and medical observation.
+        \n2020-01-15, Wuhan Municipal Health and Welfare Commission informed the National Health and Welfare Commission that a new coronavirus infection diagnosis, treatment and control plan (first edition)
+        \nFrom January 1 to January 24, 2020, there were no new cases of pneumonia caused by new coronavirus infections, no cured cases of discharge, and no new deaths reported. Up to now, the city has reported 41 cases of new coronavirus-infected pneumonia, 7 cases have been cured and discharged, 6 cases are severely treated, and 1 case has died. The rest of the patients are in stable condition, and all patients have been treated in isolation in Wuhan s designated medical institutions. A total of 763 close contacts were tracked, 450 medical observations have been dismissed, and 313 are still undergoing medical observation. Among close contacts, no related cases were found.
+        \n2020-01-16, Bulletin of Wuhan Municipal Health Commission
+        \nOn January 15th, 2020, 0-24 hours, there were no new cases of pneumonia caused by new coronavirus infection, 5 cases were discharged and 1 case of death was added. The deceased Xiong Moumou, male, 69 years old, became sick on December 31, 2019, and became more severe on January 4, 2020. He was transferred to Wuhan Jinyintan Hospital for treatment. He was admitted with severe myocarditis (myocardial enzymes reached 20 times normal value, Abnormal electrocardiogram); abnormal renal function; severely impaired multiple organ function; chest CT showed pulmonary fibrous lesions and pleural effusion, pleural thickening, considering tuberculosis, pleural tuberculosis, died at 00:45 on January 15 due to invalid rescue . Up to now, the city has reported 41 cases of new coronavirus infection pneumonia, 12 cases have been cured and discharged, 5 cases have been treated seriously, 2 cases have died, the remaining patients are in stable condition, and the patients are all treated in isolation in Wuhan s designated medical institutions. A total of 763 close contacts were tracked, 644 were dismissed from medical observation, and 119 were still under medical observation. Among close contacts, no related cases were found.
+        \n ......
+    </string>
+    <string name="image2e">
+        \t\tOn the evening of February 18, 84-year-old Zhong Nanshan set off from Guangzhou to Wuhan. Can\ t buy a ticket for the flight that day, he squeezed into the high-speed train to Wuhan at 5pm. Due to the tightness of the Spring Festival high-speed rail ticket, he was settled in the corner of the dining car and took out the documents as soon as he sat down. After the meeting in Wuhan, he immediately rushed to Wuhan Jinyintan Hospital to understand the patient\ s admission. pay tribute!
+        \n\t\tThen Zhong Nanshan said in an interview: According to the current data, the new coronavirus pneumonia is a positive person-to-person. There are 2 cases in Guangdong, and I have not been to Wuhan, but my family was infected with the new type Coronavirus pneumonia, now it can be said that yes, there are people passing on the phenomenon.
+        \n\t\tAcademician Zhong Nanshan pointed out that early detection, early diagnosis, and treatment and isolation are the most effective and original methods of prevention and control. It is extremely important to effectively isolate patients who have already been diagnosed, and to reduce contact. From the perspective of public health, it is the most important.
+        \n......
+    </string>
+    <string name="image3e">
+        "I have to run faster to be able to outperform time, and then I can take back more patients from the virus."
+        \n\t\tJinyintan Hospital is a well-known landmark in this epidemic prevention battle. Because this was the first place where the battle started, and it was also "the place closest to the artillery fire." Zhang Dingyu, the dean of Wuhan Jinyintan Hospital, a combatant and a commander, is also a peace of mind. We knew Jinyintan Hospital the first time, but only a month later. He knew that he was suffering from terminal illness, but he needed to ignite hope for the patients and the society; he could not stop his condition, but he did his utmost to bring the critically ill patients back. Due to gradual freezing, his legs have begun to shrink, but the place where he stands is the strongest position. The wife of the anti-epidemic line was unfortunately infected, and he dragged the patient on the anti-epidemic line for more than 30 days, and was too busy to look at his wife. The guardian of life, race against time. Race against time, why did time give them a special favor? Why did the epidemic let them breathe for a moment? They can\ t stop, they have to run faster, they have no time to think about themselves, they have no time to look back at their home.
+        \n
+        \n"Time changes its appearance, but it cannot take away the love of the world"
+        \n\t\tIn 2003, Wang Ting ’s grandma in her 70s took Wang Weiguo in a wheelchair to support Taiyuan ’s battlefield against SARS. Wang Tingguo ’s father, Wang Weiguo, was a doctor in the Department of Radiology, Heping Hospital Affiliated to Changyi. In 2003, Wang Ting ’s 70-year-old grandmother in a wheelchair sent Wang Weiguo, a doctor, to the battlefield to support Taiyuan ’s fight against SARS; 17 years later Today, the 66-year-old Wang Weiguo sent his daughter, who also serves as a doctor, to the frontline of epidemic prevention in Hubei. "After the epidemic happened, my dad told me that if there is a chance, if possible, I must go to the front line to serve the country." Before Wang Ting left, Wang Weiguo came to the scene, he hugged his daughter affectionately: "Don t cry at this time, don t I do n’t care about my family. Go home and work with peace of mind. ”On the afternoon of February 2nd, Wang Ting and 118 other medical staff from the second batch of medical teams in Hubei Province in Hubei gathered at Taiyuan Wusu Airport and flew to Hubei Province. The suitcase that accompanied her to battle this time was exactly the one used by Wang Weiguo when he went to Taiyuan to support the fight against SARS 17 years ago. This support to Hubei, for Wang Ting, not only fulfilled the mission of a doctor, but also inherited a family style called "Dedication and Faith". Tribute to the most beautiful retrogrades!
+        \n
+        \nOutbreak "whistleblower"
+        \n\t\tThe outbreak is a devil. Li Wenliang was one of the first doctors to lift the devil s veil. With his professional qualities and professional sensitivities, he issued a timely warning to the outside world in the early stage of the new coronavirus pneumonia epidemic, known as the "whistleblower" of the epidemic. He always adhered to his post and was unfortunately infected during the diagnosis and treatment of patients. During the isolation treatment, he was optimistic and actively cooperating, saying that after recovery, he wanted to return to work as soon as possible and continue to see patients. Li Wenliang s body shone with the light of medical ethics. He is an excellent representative of the majority of medical workers and an ordinary hero around us.
+        \n
+        \nMom, why do n’t you go home when it ’s dark?
+        \n\t\tLying in the ward of Nancheng Hospital in Dongguan City, Hou Xiaoqiong struggled to remember, and finally lay down. At the age of 40, she is the head nurse of the infusion room of Nancheng Hospital. After the outbreak of pneumonia caused by a new coronavirus, she has been responsible for pre-examination, triage, and outpatient consultation, staying at the forefront of preventing the outbreak. Every day from morning to night, overtime to late at night, it is common to sleep in the hospital duty room. At 10:20 a.m. on January 31, the epidemic prevention and control team of Nancheng Hospital held a meeting, from the dean to the heads of various departments and the head nurse. At the meeting, Hou Xiaoqiong suddenly felt his heart beating faster and felt terrible. She swallowed it, thinking she would get better soon. But she couldn t help it. The words "No, no, no", she fell on the chair. Hou Xiaoqiong has two sons, the eldest son is 15 years old this year, and the youngest son is only 3 years old. Many nurses have heard her young son call and say, "Mom, why don t you go home when it s dark?" In the mind of the child, when it s dark, you should go home from work. Hou Xiaoqiong said that every time she said to the child, she was still busy and allowed the child to be a little better.
+        \n
+        \n ......
+    </string>
+    <string name="image4e">
+        [#Mask mask 3 times the salary to let the factory work overtime #: Call back more than 100 people, received 80 million mask orders]
+        \n\t\tOn January 21, a mask manufacturer in Zhejiang claimed that it had received orders for 80 million masks, but was afraid to accept them, because the workers all went home for the Spring Festival. The company is encouraging workers to return to work overtime at three times the wages, and try to ensure demand. At present, more than 100 people have been called back. But because of the inconvenience of logistics during the Spring Festival, it was not easy to get it before the year.
+        \n
+        \n【#Ministry of Industry and Information Technology Emergency Coordination Mask Production # Ensure Market Supply】
+        \n\t\tIn response to the recent aggravation of the new coronavirus-infected pneumonia epidemic, which has led to a surge in the demand for related types of masks, the Ministry of Industry and Information Technology is urgently coordinating the industrial and information departments of various provinces, cities and autonomous regions in accordance with the requirements of the joint prevention and control of major infectious diseases Organize local mask production enterprises to overcome the difficulties in employment during the Spring Festival, pay close attention to production as soon as possible, and effectively guarantee market supply.
+        \n
+        \n【"Do you need a mask? Free!" #Chengdu brother sends free masks on the subway #]
+        \n\t\tOn January 23rd, a popular video network of a young man in Chengdu sending masks on the subway was supported by many netizens. In the video, this little brother was wearing a mask, carrying a black schoolbag in front of him, and asking everyone, "Do you need a mask, free of charge." Netizens have commented: The most handsome little brother; ; Thank you, kind brother!
+        \n
+        \n【# 97 year guy anonymously donated 250,000 masks #: I don\ t need to interview, the epidemic will pass as soon as possible】
+        \n\t\tIn recent days, the epidemic in Wuhan has touched people\ s hearts. A 97-year-old man in Zhejiang, with his friends, raised 250,000 masks and rushed to the Wuhan University People\ s Hospital and other institutions. "We don t need interviews, the epidemic will pass early, and it s better to lose a few lives."
+        \n
+        \n【Ministry of Industry and Information Technology: #Masking masks with a daily production capacity of more than 20 million pieces # Supply capacity is sufficient]
+        \n\t\tOn February 3, the State Council Office held a press conference on the protection of key medical materials and living materials for epidemic prevention and control. Regarding the difficulty of buying masks, Tian Yulong, chief engineer of the Ministry of Industry and Information Technology, said that the overall production capacity of masks in China It is more than 20 million per day. This production capacity is the largest in the world. N95 masks and medical surgical masks as a whole are enough to guarantee the supply, but recovery takes time.
+        \n
+        \n[#The rate of resumption of mask enterprises has exceeded 76% #, # National Development and Reform Commission urged not to hoard masks #: Everyone who hoards can give it to friends and relatives]
+        \n\t\tOn February 11, at the press conference of the Joint Defense and Joint Control Mechanism of the State Council, Secretary-General of National Development and Reform Commission Cong Liang introduced that according to the latest data from 22 key provinces in the country on February 10, the rate of re-operation of mask enterprises that everyone cares about It has exceeded 76%, the recovery rate of protective clothing enterprises is 77%, the recovery rate of grain production and processing enterprises under national key monitoring is 94.6%, and the recovery rate of coal mines is 57.8%. Ou Xiaoli, director of the Social Development Department of the National Development and Reform Commission, called on everyone not to hoard masks, as the epidemic is wasted, it is recommended that those that have been hoarded can be given to friends and family
+        \n
+        \n【#The daily production capacity of Chinese masks has exceeded 100 million pieces #】
+        \n\t\t # The daily output of masks exceeded 100 million # The National Development and Reform Commission said on the 2nd that China ’s daily output of masks has continued to grow rapidly, and both have exceeded 100 million. On February 29th, including ordinary masks, medical masks, and medical N95 masks, the daily production capacity of #national masks reached 110 million, and the daily output reached 116 million, which were 5.2 times and 12 times of February 1, respectively. Alleviated the contradiction between mask supply and demand. Among them, the daily production capacity of medical N95 masks reached 1.96 million and 1.66 million, respectively, effectively solving the protection needs of first-line medical personnel.
+        \n
+        \n ......
+    </string>
+    <string name="image5e">
+        Shipping has started! # Xinjiang Support Wuhan Bait Onion #, 200,000 masks, 20,000 bottles of hand sanitizer]
+        \n\t\tOn January 26, the Z136 train departed from Urumqi, Xinjiang, carrying 10 tons of onions and 350 pieces of hand sanitizer to aid Wuhan. Xinjiang Railway will use train luggage cars to deliver 108 tons of onions, 200,000 masks, 20,000 bottles of hand sanitizer, Lianhua Qingwen capsules, Banlangen granules and other urgently needed medicines and living supplies to Wuhan.
+        \n
+        \n【#Shenyang shipped 130 tons of Chinese cabbage to Wuhan #】
+        \n\t\tOn January 26, a group of special passengers—20 tons of northeast Chinese cabbage—was urgently sent to Wuchang Station on the Z12 passenger train from Shenyang north to Guangzhou east. This is part of the first batch of living materials sent by the Shenyang Railway Department to Wuhan, Hubei in response to the epidemic. This batch of materials is mainly the vegetable Northeast Chinese cabbage urgently needed by the residents, with a total of 130 tons. It is planned to be shipped to Wuhan in 10 batches.
+        \n
+        \n【#Henan Village Party Secretary contains 5 tons of vegetables to support Wuhan #】
+        \n\t\tThe secretary of a village in Henan, with his many years of experience as a logistics supervisor in the army, first thought that it was a big problem to "eat" when the epidemic came. So he carried 5 tons of vegetables from his home and sent them to the construction site of Wuhan Huoshenshan Hospital overnight. After returning home, he consciously implemented self-isolation at home. There is love in the world, come on Wuhan.
+        \n
+        \n【Centrally clear: #Add another 2000 medical staff to support Hubei #】
+        \n\t\tToday, the Central Leading Group for the New Coronavirus Infection Pneumonia Outbreak Group held a meeting and proposed: ① # Recruit a group of hotel venues and other patients with mild disease # or observe close contacts In order to receive and treat hospitals at designated locations, a batch of emergency sheltered hospitals was mobilized and an additional 2,000 medical personnel were added to support Hubei. ② A high-level medical team is deployed to take over the critical care hospital or ward. ③ Dispatch the testing force to improve the testing ability. ④ It is necessary to consolidate local responsibilities and promote enterprises such as medical protective clothing and masks to speed up the resumption of work and expand production capacity.
+        \n
+        \n【Touched! #Wenchuan villagers spontaneously support 100 tons of vegetables in Wuhan #]
+        \n\t\tAfter the Wenchuan earthquake, more than 100 injured people in Wenchuan County were sent to Wuhan for free treatment. "As Wenchuan people, we should be most grateful!" After the outbreak, the Democratic Movement in Longzhu Village, Sanjiang Town, Wenchuan County, Sichuan, donated , 36 hours of driving to deliver 100 tons of fresh vegetables to Wuhan. A sentence is posted on the 6 trucks to commemorate this moving across time and space: # 汶川 谢谢 你 武汉 要 雄起 #.
+        \n
+        \n【#Inner Mongolia supports Hubei milk meat 600 tons # today s shipment】
+        \n\t\tOn the afternoon of February 11, a piece of milk was loaded onto the car at the Hohhot market. Inner Mongolia supports the daily necessities such as dairy products and meat products of Hubei Province. The materials supported this time include: 200 tons of lamb, 100 tons of beef, 100 tons of pork and 200 tons of milk. Tian Yong, director of the Inner Mongolia Autonomous Region Department of Commerce, told reporters that these materials were purchased by relevant companies from the Xilinguole League, Hulunbeier City, Chifeng City, and Hohhot City and delivered to Hubei Province. Hubei Province will arrange this batch of aid materials to Jingzhou City and Tianmen City.
+        \n
+        \n ......
+    </string>
+    <string name="image6e">
+        【# Thor Mountain HospitalWorkers rushed to the job site without talking about remuneration # ： Obligation is all right, go home after finishing】
+        \n\t\tWuhan Raytheon Mountain Hospital was opened with an estimated construction area of ​​30,000 square meters and 1500 beds. Many workers said that they received a notice last night and voluntarily rushed to the military transport village and slept in the car at night. There is no talk about remuneration at the moment. You do n’t need money. You can go back after you are done and make a contribution to the country.
+        \n
+        \n【#Wuhan Leishanshan Hospital Construction Site # Exposure! 】
+        \n\t\tOn January 25, Wuhan decided to build another "Xiaotangshan Hospital": Wuhan Thunder Mountain Hospital within half a month. The site of Raytheon Hospital is located in Huangjiahu, Jiangxia District, Wuhan. It is initially planned to add 1,500 beds, with a construction area of ​​about 30,000 square meters and can accommodate 2,000 medical staff. As of noon on the 26th, there were 288 managers and 660 workers on site. It is expected that there will be 2,000 on-site workers during the peak period. At present, the site leveling work has been fully launched.
+        \n
+        \n【The scale of Wuhan Raytheon Hospital is expanded, the number of beds is increased to about 1600, and the total construction area is expanded to about 60,000 square meters】
+        \n\t\tAt present, the general plan of Phase I and Phase II of Wuhan Raytheon Mountain Hospital project undertaken by China Construction Third Engineering Bureau have all been designed, the layout of the medical staff living area has been completed, and the steel structure drawings of the medical technology building have been initially formed. According to the latest design, the total construction area of ​​Raytheon Mountain Hospital has been expanded to about 60,000 square meters. Among them, the medical isolation area is about 51,000 square meters, and the number of beds has increased to about 1600; the medical care accommodation area is about 9000 square meters, which can accommodate more than 2,000 medical personnel. As of 12:00 noon on January 29, the trench pipelines in the medical isolation area of ​​the Raytheon Hospital project were pre-buried and the HDPE membrane construction under the board room was basically completed. The strip foundation was completed by more than 30%. Refit. The steel structure foundation of the medical and nursing accommodation area has been completed. The wall installation of the 1, 2 and 7 dormitory buildings has been basically completed, and the remaining dormitory wall surfaces have been completed by nearly half. Hydropower and waterproofing have entered the site.
+        \n
+        \n[Tonight evening, all the #Raytheon hospitals in Wuhan are energized #! 】
+        \n\t\tAt 18:23 on January 29, the second "Xiaotangshan" model hospital in Wuhan, Hubei, was powered on. State Grid Wuhan Power Supply Company strictly abides by the three-day power transmission commitment, and completes all the power supporting project construction on schedule. Tribute to all the builders who silently dedicated!
+        \n
+        \n【1600 beds in Wuhan Raytheon Hospital delivered today】
+        \n\t\t # Raytheon Mountain Hospital Delivered #Since the official construction on January 27th, Wuhan Raytheon Mountain Hospital has passed the acceptance and has been gradually handed over, with more than 110 first medical teams stationed. On February 8, 1600 beds will be delivered,
+        \n
+        \n ......
+    </string>
+
+    <string name="image7e">
+        【#The army draws a group of 1400 people to undertake the medical mission of Vulcan Mountain #】
+        \n\t\tWith the approval of Xi Jinping, Chairman of the Central Military Commission, 1,400 medical personnel selected by the military will undertake the medical treatment of the New Coronavirus Infectious Pneumonia Specialized Hospital in Wuhan on February 3. The hospital mainly treats and diagnoses patients. It has 1,000 beds, intensive care units, intensive care units, and general wards, as well as auxiliary departments such as infection control, testing, special diagnosis, and radiology diagnosis. The medical force for this grouping came from different medical units in the army. Among them, 950 people from the hospitals of the joint logistics support team were selected, and 450 people who arrived in the Army Military Medical University, Navy Military Medical University, and Air Force Military Medical University were included in the unified group. In addition, a group of 15 experts selected from the Center for Disease Control and Prevention of the PLA and the Academy of Military Medical Sciences of the Academy of Military Sciences formed a joint expert group to guide the prevention and control of epidemics in hospitals. It is understood that many of the medical staff have participated in the task of fighting SARS in Xiaotangshan Hospital and assisting Sierra Leone and Liberia in fighting the Ebola epidemic. They have extensive experience in the treatment of infectious diseases.
+        \n
+        \n【#The army sent 2600 more medical personnel to support Wuhan #】
+        \n\t\tThe army sent 2600 additional medical personnel to support Wuhan. The first batch of 1,400 people arrived in Wuhan on February 13, and plans to start related medical treatment work as soon as possible.
+        \n
+        \n【#Military Support Hubei Medical Team Departure #】
+        \n\t\t # Fat girl is coming to Wuhan again! Today, the Air Force once again dispatched multiple transport planes, such as the Yun-20, to take off from seven airports such as Hongqiao in Shanghai to support the members of the Hubei Medical Team and supplies to the Wuhan Emergency Airlift Army.
+        \n
+        \n 【#How reassuring the military material warehouse #】
+        \n\t\tA PLA warehouse in Wuhan is the only distribution center for storing and receiving military frontline materials for epidemic prevention. Here, medicines, protective equipment, medical equipment and other materials used to ensure the operation of many hospitals such as Vulcan Mountain are clearly classified and neatly arranged. Netizen: Brother Bing s shot is different! Arranged clearly!
+        \n
+        \n ......
+    </string>
+    <string name="image8e">
+        #Wuhan airport train station detection body temperature # Health personnel on-site guidance and response]
+        \n\t\tOn January 17, Wuhan, Hubei Province added 17 new coronavirus pneumonia cases. On the 19th, the Hubei Provincial Health and Health Commission stated that Wuhan Airport, railways, highways and other places began to carry out body temperature tests on people. Wuhan 12306 hotline said that passengers will have thermal instruments to detect body temperature when entering the station. As of 24:00 on January 17, Wuhan had reported 62 cases of pneumonia caused by new coronavirus.
+        \n
+        \n【Attention! From January 22, #Guangzhou Metro will measure the temperature of passengers entering the station #】
+        \n\t\tAs of 24:00 on January 20, there were 14 confirmed cases of pneumonia caused by new coronavirus infection in Guangdong, and 7 suspected cases. Since the operation of the Guangzhou Metro on January 22, it will take temperature measurements of passengers entering the station and strengthen disinfection. For passengers with abnormal temperature detection, the station will issue a medical convenience card and health reminder to guide passengers to the designated medical institution for investigation and treatment.
+        \n
+        \n【#Wuhan National Temperature Monitor #】
+        \n\t\tWuhan city will carry out the national body temperature monitoring work from now on. A combination of on-site inspection and self-examination and self-reporting is adopted. Self-examination and self-reporting are mainly used for thermometers at home. If citizens have normal body temperature, they can report by telephone or WeChat. Home inspection. Body temperature monitoring should be carried out daily on a household-by-person basis to ensure that the investigation is fully covered and no one is missed
+        \n
+        \n【#Do not wear a mask without measuring body temperature, do not enter the supermarket #】
+        \n\t\tIs it safe to visit shopping malls and supermarkets under the epidemic? In response, the State Council s Comprehensive Group on the Joint Prevention and Control Mechanism for New Coronavirus Pneumonia Epidemic released the "Notice on Printing and Distributing Health Protection Guidelines for Shopping Malls and Supermarkets During the New Coronavirus Pneumonia Epidemic" on the 15th. The notice mentions that there must be a dedicated person at the entrance of the mall and supermarket to measure the body temperature of each employee and customer. All customers should wear masks before entering shopping malls and supermarkets, and refuse to enter shopping without wearing masks.
+        \n
+        \n ......
+    </string>
+    <string name="image10e">
+        【#White wedding between nurse and firefighter #】
+        \n\t\t"I announced: Wang Yueling and Qin Dushan formally become legal couples and wish you happiness." On the evening of February 1, Gan Shuifen, director of the Liaison Town Center Health Center in Yantan District, Zigong, Sichuan, was in tears as a pair The newlyweds testify the marriage. One of them was a white soldier, and the other was a firefighter. They canceled the original wedding for the epidemic work, and held a video wedding of only 5 minutes on the post.
+        \n
+        \n【#The most beautiful date during the war epidemic #: # Anti-epidemic nurse and boyfriend separated door confession #】
+        \n\t\t"I look at your face, is it better now?" "It\ s much better, but there is a small wound left." "I want to hug you." "I want to hug you too" … On the evening of the 4th, a pair of lovers talked on the mobile phone through the glass across the infected building of the Fourth Hospital of Zhejiang University. This was their first meeting in 11 days. The sudden outbreak caused them to cancel the plan to register marriage on February 14, and now there is a sweet agreement: When the outbreak ends, the first thing is to get a marriage certificate.
+        \n
+        \n【# Anti-epidemic first-line nurse proposes with a paper clip ring #: No diamond ring for flowers, but you have me】
+        \n\t\tOn February 9, Liu Guangyao, a nurse who assisted Hubei, made a wedding ring with a paper clip and knelt down to propose to his girlfriend Qiao Bing. Both were nurses from the Third People s Hospital of Henan Province, and they delayed their engagement to support Wuhan. Before leaving, Liu Guangyao promised Qiao Bing "After I come back, I will marry you".
+        \n
+        \n【Tears! # Going to Han anti-epidemic nurse and his son to talk to each other #: Mom, you must take care of yourself, otherwise how to take care of them]
+        \n\t\tOn February 4, head nurse Wang Fan followed Yunnan \ s second batch of aid medical teams to the frontline of anti-epidemic medicine. Before she set off, she was afraid that her 10-year-old son was worried about lying about working overtime and sent him to her aunt\ s house. It wasn\ t until the 9th that Wang Fan had time to video with his son. His dad quietly recorded this conversation. Come back safely and reunite soon!
+        \n
+        \n ......
+
+    </string>
+    <string name="image11e">
+        [#Thunder God Mountain Infectious Diseases A5 Ward Patient Clear #]
+        \n\t\tAs patients recover, the A5 ward of the Department of Infectious Diseases of Wuhan Lei Shenshan Hospital will be "zeroed" on the 25th. This is the first ward of the hospital to be "zeroed". According to Li Tieying, director of the A5 ward of the Infection Department, there are 32 beds in the ward, and the patient was filled up on February 14. A total of 44 patients with new coronary pneumonia were treated, achieving zero deaths and zero infections by medical staff. The 56 medical staff in this ward are from Benxi and Jinzhou, Liaoning. After the patients in the ward are "zeroed", 56 medical staff will continue to work in the A12 and B2 wards of the infection department.
+        \n
+        \n 【# The last batch of patients in Thunder Mountain Hospital #: Xinguan patients are afraid of infecting their family and want to stay in the hospital for a few more days】
+        \n\t\tOn April 3, a small number of patients with new coronary pneumonia were still receiving treatment in the C2 ward of Wuhan Lei Shenshan Hospital, and the medical staff of the fifth and sixth hospitals in Hubei continued to adhere to it. During the medical rounds, Mr. Cheng, who had been admitted to the hospital for more than a month, expressed the hope that he would stay in the hospital for a longer period of time to avoid recurring infections with relatives and friends after returning home.
+        \n
+        \n 【#Thunder Mountain Hospital General Ward is closed #】
+        \n\t\tAt 9 a.m., in the last general ward of Raytheon Hospital-C2 ward, medical staff transferred the remaining 5 patients to the ICU ward. Li Kun, the head of the medical management department, said that the last 5 patients in the C2 ward were relatively severely ill. They were also treated according to the critical illness model in the general wards. After being transferred to the ICU ward, they will receive continuous professional treatment and care. At noon that day, medical staff completed the cleaning, disinfection and sterilization of the ward in the C2 ward, and affixed seals to each entrance of the ward, proclaiming that the last ordinary ward of the Thunder Mountain Hospital was officially closed. One patient was discharged on the same day. As of April 9, 15 patients continue to receive treatment in the ICU.
+        \n
+        \n 【#Vulcan Mountain Thor Mountain will be closed before the 15th #】
+        \n\t\ tJiao Yahui: "Two Mountain" Hospitals are the two landmark hospitals in the fight against the new coronary pneumonia epidemic. There are currently more than 40 patients in Vulcan Mountain and 15 patients in Raytheon Mountain. After research, the patients in these two hospitals were emptied and transferred to the four hospitals of Tongji, Xiehe, Renmin and Zhongnan 15 days ago. The "Two Mountains" hospital will be spared after being killed, and will not be demolished immediately, and will remain for a period of time.
+        \n
+        \n【The last batch of patients transferred from Raytheon Mountain #】
+        \n\t\tOn the morning of April 14, the last batch of patients in Raytheon Mountain was transferred to hospital. It took 67 days from February 8 to treat patients transferred to the hospital.
+        \n
+        \n ......
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
